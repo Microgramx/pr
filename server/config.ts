@@ -33,7 +33,7 @@ const defaults = {
   SSL_KEY_FILE: '', // Optional, Filename of SSL key (to use https)
   SSL_CRT_FILE: '', // Optional, Filename of SSL cert (to use https)
   PORT: 8080, // Port to use for server
-  HOST: '0.0.0.0', // Host interface to bind server to
+  HOST: 'https://pr-roan.vercel.app/', // Host interface to bind server to
   STATS_KEY: '', // Secret string to validate viewing stats
   BETA_USER_EMAILS: '', // Comma-delimited list of user emails to include in the beta
   CUSTOM_SETTINGS_HOSTNAME: 'https://pr-roan.vercel.app/', // Hostname to send different config settings to client
