@@ -36,7 +36,7 @@ const defaults = {
   HOST: '0.0.0.0', // Host interface to bind server to
   STATS_KEY: '', // Secret string to validate viewing stats
   BETA_USER_EMAILS: '', // Comma-delimited list of user emails to include in the beta
-  CUSTOM_SETTINGS_HOSTNAME: 'https://pr-4t2l.vercel.app/', // Hostname to send different config settings to client
+  CUSTOM_SETTINGS_HOSTNAME: 'https://pr-roan.vercel.app/', // Hostname to send different config settings to client
   STREAM_PATH: '', // Path of server that supports additional video streams
   ROOM_CAPACITY: 0, // Maximum capacity of a standard room. Set to 0 for unlimited.
   ROOM_CAPACITY_SUB: 0, // Maximum capacity of a sub room. Set to 0 for unlimited.
