@@ -111,7 +111,7 @@
     "prettier": "^3.2.4",
     "source-map-explorer": "^2.5.3",
     "ts-node-dev": "^2.0.0",
-    "typescript": "^5.3.3",
+    "typescript": "^5.5.2",
     "vite": "^5.0.12"
   }
 }
